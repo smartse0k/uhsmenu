@@ -1,4 +1,0 @@
-RewriteEngine On
-
-RewriteRule keyboard keyboard.php
-RewriteRule message message.php
